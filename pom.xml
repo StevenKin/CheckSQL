@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.stevenkin</groupId>
-    <artifactId>CheckMybatis</artifactId>
+    <artifactId>CheckSQL</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
